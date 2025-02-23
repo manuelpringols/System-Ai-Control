@@ -1,0 +1,53 @@
+# IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+target/
+
+# Spring Boot DevTools
+.spring-boot-devtools/
+
+# Logs
+*.log
+
+# H2 Database
+*.h2.db
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Angular
+/dist/
+/node_modules/
+/src/environments/environment.prod.ts
+/src/environments/environment.ts
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# macOS
+*.swp
+*~
